@@ -23,29 +23,4 @@ public class Game {
 
         return "Draw";
     }
-    
-    // String paperOrRock(String paper, String rock) { 
-
-    //     if(paper == "Paper" && rock == "Rock") {
-    //         return paper + " wins";
-    //     }
-
-    //     return "Error";
-    // }
-
-    // String rockOrScissors(String rock, String scissors) { 
-    //     if(rock == "Rock" && scissors == "Scissors") {
-    //         return rock + " wins";
-    //     }
-
-    //     return "Error";
-    // }
-
-    // String scissorsOrPaper(String scissors, String paper) {
-    //     if(scissors == "Scissors" && paper == "Paper") {
-    //         return scissors + " wins";
-    //     }
-
-    //     return "Error";
-    // }
 }
